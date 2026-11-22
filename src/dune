@@ -1,0 +1,3 @@
+(library
+ (name crossing_horn)
+ (public_name crossing-horn))

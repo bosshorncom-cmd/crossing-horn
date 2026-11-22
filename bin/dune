@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name crossing-horn)
+ (libraries crossing_horn))
